@@ -6,6 +6,11 @@
     <img src="/Img/save-changes.png" alt="Exemplo de como utilizar o método SaveChangesAsync para registro de inserção e atualização de registros" title="Exemplo de como utilizar o método SaveChangesAsync para registro de inserção e atualização de registros">
 </p> 
 
+### ` 💻 Exemplo`
+<p align="center">
+    <img src="/Img/exemplo.png" alt="Exemplo" title="Exemplo">
+</p> 
+
 ### ` 💡 Covered topics`
 * .NET 7
 * SQL Lite
